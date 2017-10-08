@@ -4,6 +4,10 @@ Generates random identicons based on string inputs.
 
 Identicons are 5x5 grids that are 250px wide x 250px tall (50px x 50px squares), similar to the default image that Github will assign you if you create a profile without an image.
 
+For example: `Identicon.main("asdf")` creates this png:
+
+![](https://raw.githubusercontent.com/cdeeter/elixir-identicon-generator/master/asdf.png)
+
 Following along with [The Complete Elixir And Phoenix Bootcamp and Tutorial](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
 ## Installation
